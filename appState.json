@@ -1,0 +1,93 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "960ab806-8cf2-4231-8cf1-acd761839d1b": {
+        "id": "960ab806-8cf2-4231-8cf1-acd761839d1b",
+        "parent": null,
+        "name": "indu1.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "indu1.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 48
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "indu10"
+        },
+        "triggers": []
+      },
+      "5334414f-6598-42a1-9b48-3884fc434e0b": {
+        "id": "5334414f-6598-42a1-9b48-3884fc434e0b",
+        "parent": null,
+        "name": "indu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "indu.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 48
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "indu10"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "960ab806-8cf2-4231-8cf1-acd761839d1b",
+      "5334414f-6598-42a1-9b48-3884fc434e0b"
+    ],
+    "currentFileId": "5334414f-6598-42a1-9b48-3884fc434e0b",
+    "resources": {},
+    "customTemplate": {
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "indu1",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1586406365332
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "indu1",
+      "url": "https://github.com/Indunil1992/indu1"
+    }
+  }
+}
